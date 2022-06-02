@@ -1,0 +1,29 @@
+h3{
+    font-size: 2rem;
+    text-align: center;
+    font-style: italic;
+}
+
+h1{
+    font-size: 40px;
+}
+
+header p{
+    font-size: 25px;
+    padding: 30px;
+}
+
+p{
+    font-size: 1.2em;
+    
+}
+
+img{
+border-radius: 50%;
+max-width: 30vw;
+max-height: 10vh;
+}
+
+header{
+    text-align: center;
+}
